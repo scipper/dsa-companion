@@ -1,0 +1,67 @@
+[hero document]
+ - name
+ - gender
+ - species
+ - birthday
+ - age
+ - hair color
+ - eye color
+ - height
+ - weight
+ - profession
+ - culture
+ - social status
+ - place of birth
+ - family
+ - characteristics
+ - languages
+ - writings
+ - [advantages]
+ - [disadvantages]
+ - [common special skills]
+ - [vital energy]
+ - [astral energy]
+ - [karma energy]
+ - [soul power]
+ - [toughness]
+ - [dodge]
+ - [fate points]
+ - [level of experience]
+ - [attributes]
+ - [fighting techniques]
+ - [combat special skills]
+ - melee weapon
+ - range weapon
+ - armor
+ - shield
+ - [condition]
+ - [skills]
+ - [burden]
+ - [inventory]
+ - [special skills]
+
+[attributes]
+ - MU (courage)
+ - KL (wisdom)
+ - IN (intuition)
+ - CH (charisma)
+ - FF (dexterity)
+ - GE (agility)
+ - KO (constitution)
+ - KK (physical strength)
+
+[inventory]
+ - [items]
+ - [estate]
+ - capacity
+
+[items]
+ - name
+ - worth
+ - amount
+ - unit
+ - weight
+ - armor
+ - melee weapon
+ - range weapon
+
